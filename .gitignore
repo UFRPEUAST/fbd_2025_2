@@ -1,0 +1,29 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Diretórios do ambiente virtual
+venv/
+env/
+.venv/
+
+# Arquivos de configuração do editor
+.vscode/
+.idea/
+
+# Arquivos de logs e bancos de dados temporários
+*.log
+*.sqlite3
+
+# Arquivos de configuração do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Arquivos de build
+build/
+dist/
+*.egg-info/
+
+# Arquivos dotenv (variáveis de ambiente)
+.env
